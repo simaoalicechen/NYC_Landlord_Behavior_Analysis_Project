@@ -14,8 +14,5 @@ This is an ongoing, semester-long data science project that explores landlord be
 ## Project Structure
 - **Cleaning notebooks** are separated from analysis notebooks to maintain clarity.
 - **Exploratory Data Analysis (EDA)** of eviction data is broken into 4 parts for readability and easier file management in Git.
-<<<<<<< HEAD
 - The Q1 and Q2 hypotheses are answered through data analysis based on defined research questions.
-=======
-- The Q1 and Q2 hypotheses are answered through data analysis based on defined research questions.
->>>>>>> a775696 (updated README)
+
