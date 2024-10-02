@@ -1,13 +1,17 @@
 # NYC Landlord Behavior Analysis Project
 
-## This an ongoing, semester-long data science project explores landlord behavior in NYC using three primary datasets (will increase as research needs grow):
+## Overview
+This is an ongoing, semester-long data science project that explores landlord behavior in NYC using three primary datasets (additional datasets will be incorporated as research progresses):
 
-### Evictions dataset: Evictions data (https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4/data)
-### 311 complaints dataset: 311 complaints data (https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data)
-### BBL
+- **Evictions dataset:** [Evictions data](https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4/data)
+- **311 complaints dataset:** [311 complaints data](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data)
+- **BBL dataset:** A unique identifier for NYC properties used to merge and cross-reference the datasets.
 
-### Our current goal is to analyze how property-related complaints and eviction rates correlate, particularly focusing on identifying patterns of landlord behavior based on building type, complaint frequency, and eviction trends
+## Current objectives/groups of hypotheses
+1. **Q1:** Analyze how property-related complaints and eviction rates correlate.
+2. **Q2:** Identify landlords and patterns of landlord behavior based on building type, complaint frequency, and eviction trends.
 
-### cleaning notebooks are seperate from analysis notebooks
-### Exploratory Data Analysis (EDA) of eviction data is broken down to 4 parts for readability and easier file management in git
-### Q1-, Q2- answer groups of hypothesis we made during data analysis
+## Project Structure
+- **Cleaning notebooks** are separated from analysis notebooks to maintain clarity.
+- **Exploratory Data Analysis (EDA)** of eviction data is broken into 4 parts for readability and easier file management in Git.
+- The Q1 and Q2 hypotheses are answered through data analysis based on defined research questions.
