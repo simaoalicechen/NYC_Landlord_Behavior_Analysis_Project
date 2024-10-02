@@ -1,6 +1,6 @@
 # NYC Landlord Behavior Analysis Project
 
-## This an ongoing, semester-long dissertation-level data science project explores landlord behavior in NYC using three primary datasets (will increase as research needs grow):
+## This an ongoing, semester-long data science project explores landlord behavior in NYC using three primary datasets (will increase as research needs grow):
 
 ### Evictions dataset: Evictions data (https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4/data)
 ### 311 complaints dataset: 311 complaints data (https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data)
