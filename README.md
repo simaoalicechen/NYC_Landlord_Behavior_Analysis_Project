@@ -9,5 +9,5 @@
 ### Our current goal is to analyze how property-related complaints and eviction rates correlate, particularly focusing on identifying patterns of landlord behavior based on building type, complaint frequency, and eviction trends
 
 ### cleaning notebooks are seperate from analysis notebooks
-### eviction data analysis and exploration is broken down to 4 parts for readability and easier file management in git
+### Exploratory Data Analysis (EDA) of eviction data is broken down to 4 parts for readability and easier file management in git
 ### Q1-, Q2- answer groups of hypothesis we made during data analysis
