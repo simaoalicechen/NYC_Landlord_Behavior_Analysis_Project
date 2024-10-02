@@ -1,17 +1,6 @@
 .env
 .ipynb_checkpoints
 .my_env
-evictions.csv
-small_311.csv
-BBL.csv
-last_fifth.csv
-first_1_5.csv
-last_five_years_311.csv
-complaints_df_cleaned.csv
-complaints_2021.csv
-complaints_2022.csv
-complaints_2023.csv
-complaints_2024.csv
 not_in_use/data
 not_in_use/.ipynb_checkpoints
 raw_data/BBL.csv
