@@ -10,9 +10,10 @@ This is an ongoing, semester-long data science project that explores landlord be
 ## Current objectives/groups of hypotheses
 1. **Q1:** Analyze how property-related complaints and eviction rates correlate.
 2. **Q2:** Identify landlords and patterns of landlord behavior based on building type, complaint frequency, and eviction trends.
+3. **Q3:** Identify neighborhoods most prone to evictions and propose relevant questions relating to  the societal, policy, corporate, and economic influences behind those trends.
+
 
 ## Project Structure
 - **Cleaning notebooks** are separated from analysis notebooks to maintain clarity.
 - **Exploratory Data Analysis (EDA)** of eviction data is broken into 4 parts for readability and easier file management in Git.
-- The Q1 and Q2 hypotheses are answered through data analysis based on defined research questions.
-
+- The Q1, Q2, and Q3 hypotheses are addressed through data analysis based on the defined research questions. More comprehensive conclusions will be drawn as additional data and non-data literature are included in future analysis.
