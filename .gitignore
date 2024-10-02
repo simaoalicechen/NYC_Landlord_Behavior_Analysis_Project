@@ -14,4 +14,5 @@ complaints_2023.csv
 complaints_2024.csv
 not_in_use/data
 not_in_use/.ipynb_checkpoints
-raw_data
+raw_data/BBL.csv
+raw_data/evictions.csv
