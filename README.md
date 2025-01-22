@@ -6,6 +6,7 @@ This is an ongoing, semester-long data science project that explores landlord be
 - **Evictions dataset:** [Evictions data](https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4/data)
 - **311 complaints dataset:** [311 complaints data](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data)
 - **BBL dataset:** A unique identifier for NYC properties used to merge and cross-reference the datasets.
+- **NYC Building Footprints:** A polygon layer of counties in NYS listing sources of building footprint data and direct download links to individual county building footprint geodatabase. [NYC Building Footprints](https://data.gis.ny.gov/maps/a6bbc64e38f04c1c9dfa3c2399f536c4/about)
 
 ## Current objectives/groups of hypotheses
 1. **Q1:** Analyze how property-related complaints and eviction rates correlate. [During Covid]
